@@ -1,0 +1,42 @@
+#top{
+    text-align: center;
+}
+#main{
+    text-align: center;
+}
+body{
+    font-family: 'Noto Sans', sans-serif;
+}
+#logo{
+color:white;
+background-color: aquamarine;
+display:inline-block;
+font-size: 50px;
+font-weight:bolder;
+padding:8px;
+margin-top: 16px;
+}
+#logo-name{
+color: black;
+font-size: 70px;
+}
+#navigation a {
+color:black;
+padding: 16px;
+}
+#navigation a:hover {
+    color:red;
+}
+#image img {
+    width: 100%;
+    margin-top: 20px;
+}
+#main{
+    max-width: 800px;
+    margin:auto;
+}
+#kurdenkarte{
+   position:absolute;
+   left:400px;
+    margin:auto
+}
